@@ -4,6 +4,7 @@
       "name":"test_01",
       "desc":"debug and test map nr1",
       "image":"image.png",
+      "type":"prop",
       "url":"test_01.json"
     }
   ]
