@@ -2,7 +2,7 @@
   "maps":[
     {
       "name":"test_01",
-      "url":"test_01"
+      "url":"test_01.json"
     }
   ]
 }
