@@ -3,7 +3,7 @@
     {
       "name":"test_01",
       "desc":"debug and test map nr1",
-      "image":"test_01.png",
+      "image":"image.png",
       "url":"test_01.json"
     }
   ]
